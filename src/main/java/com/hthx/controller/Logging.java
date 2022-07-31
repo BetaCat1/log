@@ -12,6 +12,5 @@ public class Logging {
         LOGGER.warn("warn");
         LOGGER.info("info");
         LOGGER.debug("debug");
-        LOGGER.trace("trace");
     }
 }
