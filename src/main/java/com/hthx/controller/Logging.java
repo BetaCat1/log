@@ -11,7 +11,6 @@ public class Logging {
         LOGGER.error("error");
         LOGGER.warn("warn");
         LOGGER.info("info");
-        LOGGER.debug("debug");
-        111
+        LOGGER.debug("debug");//222
     }
 }
