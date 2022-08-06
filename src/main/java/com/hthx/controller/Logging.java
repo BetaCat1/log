@@ -10,6 +10,8 @@ public class Logging {
     public static void main(String[] args) {
         LOGGER.error("error");
         LOGGER.warn("warn");
-        LOGGER.info("info");//222
+        LOGGER.info("info");
+        LOGGER.debug("debug");
+        111
     }
 }
